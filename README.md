@@ -9,6 +9,6 @@
 
 ![kauacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauacode&show_icons=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauacode)](https://github.com/kauacode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauacode&theme=material-palenight)](https://github.com/kauacode/github-readme-stats)
 
   
