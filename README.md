@@ -3,7 +3,7 @@
 
 - 😁 I am Kauã Braccio
 - 👨‍💻 Science Computer student
-- 👨‍🎓 Studying at FAJ
+- 👨‍🎓 Studying at UniFAJ
 - 🫡 Trainee as eletrotechnical at CNPEM (Center for Research in Energy and Materials)
 
 ### 🤖 Skills and Passions
