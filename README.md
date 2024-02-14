@@ -4,7 +4,6 @@
 - 😁 I am Kauã Braccio
 - 👨‍💻 Computer Science student
 - 👨‍🎓 Studying at UniFAJ
-- 🫡 Trainee as eletrotechnical at CNPEM (Center for Research in Energy and Materials)
 
 ### 🤖 Skills and Passions
 
