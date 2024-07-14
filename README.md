@@ -4,10 +4,11 @@
 - 😁 I am Kauã Braccio
 - 👨‍💻 Computer Science student
 - 👨‍🎓 Studying at UniFAJ
+- 👨🏻‍💻 Web Developer Intern
 
 ### 🤖 Skills and Passions
 
-- 💻 Back-End Developer
+- 💻 Full-Stack Developer
 - 🎸 Guitar Player
 - ☕ Coffee Lover
 
